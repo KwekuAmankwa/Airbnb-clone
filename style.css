@@ -32,7 +32,6 @@ body {
     padding: 15px;
 }
 .hero > img{
-    align-self: center;
     height: 232px;
     max-width: 400px;
     padding: 0 10px;
